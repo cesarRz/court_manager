@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "19527378930",
+    "project_id": "letsplay-5a9c4",
+    "storage_bucket": "letsplay-5a9c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19527378930:android:58846e5063ef6e1d126d6b",
+        "android_client_info": {
+          "package_name": "com.flutterflow.courts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19527378930-4t1o87di5occmu4s750p299munfj69ia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_kRFh7i-25pOGjBaa1kjw3NQGuSfMXg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19527378930-4t1o87di5occmu4s750p299munfj69ia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "19527378930-6a0m012n894dq7ne4tnb2gkppgqe4thj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.courts"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
